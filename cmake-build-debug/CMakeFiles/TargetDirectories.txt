@@ -1,0 +1,3 @@
+C:/Users/aruda/repos/oop_laba2/cmake-build-debug/CMakeFiles/oop_laba2.dir
+C:/Users/aruda/repos/oop_laba2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aruda/repos/oop_laba2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
